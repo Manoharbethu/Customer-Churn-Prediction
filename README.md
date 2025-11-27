@@ -1,4 +1,4 @@
-# 🏦 Customer Churn Prediction 
+# 🏦 Customer-Churn-Prediction 
 This repository documents the analysis and modeling conducted for the Customer Churn Prediction project in the banking sector. The goal was to develop a robust machine learning model that could accurately predict which customers are likely to discontinue their service, enabling banks to implement proactive retention strategies. <br/>
 # 🎯 Key Project Goals and Objectives
 Model Development: Build a machine learning model to accurately predict customer churn risk in the banking sector. <br/>
